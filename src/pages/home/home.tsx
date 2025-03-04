@@ -25,7 +25,7 @@ const Home = () => {
           </div>
 
           <h1 className="text-4xl md:text-5xl font-bold">
-            Bem-vindo à Fraternidade São Sebastião
+            Bem-vindo à Fraternidade São Sebastião!
           </h1>
           <p className="mt-4 text-lg md:text-xl">
             Vivendo o Evangelho à luz de São Francisco e Santa Clara
